@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 25, 2017, 1:24:31 AM
+    Author     : jstra
+*/
+header li
+{
+    display: inline;
+}
+
+header ul
+{
+    list-style-type: squarel;
+}
+
+header
+{
+    text-align: center;
+}
+
+body
+{
+    font-size: 2EM;
+}
+
+.right
+{
+    float: right;
+    margin-right: 10%;
+}
+.main
+{
+    margin-left: 10%;
+}
+
+.obj
+{
+    display: inline;
+}
+.info
+{
+    padding-left: 40px;
+}
+.title
+{
+    font-style: italic;
+}
